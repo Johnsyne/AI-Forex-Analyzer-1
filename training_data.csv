@@ -1,0 +1,4 @@
+symbol,open,high,low,close,volume,rsi,macd,signal,ema,bb_upper,bb_lower,pattern,signal
+EURUSD,1.09,1.10,1.08,1.09,1000,29.5,0.002,0.001,1.091,1.11,1.07,Bullish Engulfing,BUY
+EURUSD,1.10,1.11,1.09,1.10,1000,72.3,-0.003,-0.001,1.092,1.12,1.08,Bearish Engulfing,SELL
+EURUSD,1.10,1.10,1.09,1.095,1000,50.0,0.001,0.001,1.090,1.11,1.07,,NEUTRAL
