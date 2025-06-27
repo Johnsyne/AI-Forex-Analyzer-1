@@ -16,8 +16,3 @@ An AI-powered web app for real-time Forex trading signals using machine learning
 
 ## 🚀 Getting Started
 
-### Frontend
-```bash
-cd frontend
-npm install
-npm run dev
